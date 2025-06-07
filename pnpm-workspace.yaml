@@ -1,5 +1,4 @@
 packages:
-  - 'packages/*'
-  - 'api'
-  - 'examples'
-  - 'internals/*'
+  - apps/*
+  - packages/*
+  - infra/*
